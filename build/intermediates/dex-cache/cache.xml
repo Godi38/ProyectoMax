@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\ace00b16f68c9a1c63b2786324367fd1dfef6867\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_897ee0f287f4b0212663cf800b9d786bc19e2ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\4c01ecdac9a043b26ac69fecfa1b3c08eaaac7a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_a11e43efd72d4fe1334864e030bdff36e7a5736d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\8c6abccb2ba04d7b343c56cba7c9f3a41ac02872\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_5fd7442d0fda5fd91e9900728a404b952dd34b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\591c19446b6f325714f92e56e8ebbff71966b9c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_8ef6e79ea3a4a68f4c863f2682422535b06ef7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\6cc56929ba1f7f14f9a654ce8c3fb6dc6f8c906a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_2ef61bd0e1f704397804383d6ec42bfb4c5e08fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\367167e9c8a9e959716177f3c2fecf4a95121023\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_f4e975bcb3de0f4c5f430c61c2007cd03bcdfb16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\a81fbdbdbe73ba6ee7cbbc47e1f4b995b5c30e82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_f959f6ca3f4b4ee2a178962fc0625cc011ffc149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\336e696a59004f201d3babd7b19390c32ab2c0f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_e731d47a3d6492aaa24f64955c8a461255429889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_03766e11946ccfaf44b7447659357e92227f2ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\9f6baa3315586a0b52b99292cdd35381262a2fe0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_205922b9727ed4ae458b200862deb77bb5de95ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.android\build-cache\a6b3790fbfd5c1a3d8586c53b5f736f8c2e4d075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\classes_3689ddd9bd39dc3812873bd14f40e81f12f09a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Mis documentos\Uniremington\IX\Programacion Avanzada 2\Android\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_95ccae558ef20c04307a8cbd52a975623aac8b74.jar" />
+    </item>
+
+</items>
