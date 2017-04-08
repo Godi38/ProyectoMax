@@ -1,4 +1,4 @@
-#Sat Apr 08 08:05:16 COT 2017
+#Sat Apr 08 16:46:11 COT 2017
 base.0=D\:\\Mis documentos\\Uniremington\\IX\\Programacion Avanzada 2\\Android\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\Mis documentos\\Uniremington\\IX\\Programacion Avanzada 2\\Android\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

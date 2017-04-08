@@ -24,13 +24,13 @@ public class Actividad2 extends AppCompatActivity implements View.OnClickListene
             @Override
             public void onCheckedChanged(RadioGroup group, @IdRes int checkedId) {
                 if (checkedId == R.id.radioButton1) {
-                    Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 1", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Esta es la opcion 1", Toast.LENGTH_LONG).show();
                 } else if (checkedId == R.id.radioButton2){
-                    Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 2", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Esta es la opcion 2", Toast.LENGTH_LONG).show();
                 } else if (checkedId == R.id.radioButton3) {
-                    Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 3", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Esta es la opcion 3", Toast.LENGTH_LONG).show();
                 } else if (checkedId == R.id.radioButton4) {
-                    Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 4", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Esta es la opcion 4", Toast.LENGTH_LONG).show();
                 }
             }
         });
